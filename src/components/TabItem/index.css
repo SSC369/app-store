@@ -1,0 +1,14 @@
+.button {
+  color: #7b8794;
+  background-color: transparent;
+  border-width: 0;
+  margin: 2px;
+  border-bottom: 2px #dfe2e5 solid;
+}
+.tab-name {
+  font-size: 16px;
+}
+.active-button {
+  color: #2563eb;
+  border-bottom: 2px #2563eb solid;
+}
